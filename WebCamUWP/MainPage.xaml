@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <CaptureElement x:Name="PreviewControl"/>
 
     </Grid>
 </Page>
